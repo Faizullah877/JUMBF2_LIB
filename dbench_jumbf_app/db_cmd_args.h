@@ -3,7 +3,7 @@
 #include <sstream>
 #include <fstream>
 
-#include "../dbench_jumbf_lib/db_jumbf_lib.h"
+#include "db_jumbf_lib.h"
 
 using namespace std;
 

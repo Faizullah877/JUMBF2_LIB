@@ -4,7 +4,7 @@
 
 #include "db_jumbf_parser.h"
 #include <string>
-#include "../dbench_jumbf_lib/db_define.h"
+#include "db_define.h"
 #include <iomanip>
 
 using namespace std;
